@@ -1,0 +1,56 @@
+.quickContact {
+    position: fixed;
+    bottom: 10px;
+    left: 20px;
+    z-index: 999;
+}
+.quickContact .btn_link.btn_wahtsApp {
+    background-color: rgb(10, 154, 54);
+    background-image: none;
+    color: rgb(232, 230, 227);
+}
+.quickContact .btn_link i {
+    font-size: 25px;
+    line-height: 40px;
+    position: relative;
+    top: 1px;
+}
+i {
+    font: 15px/1 FontAwesome;
+        font-size: 15px;
+        line-height: 1;
+    font-size: 15px;
+    line-height: 1;
+    font-size: 14px;
+    line-height: 1;
+    font-size: inherit;
+    text-rendering: auto;
+}
+.quickContact .btn_link.btn_messenger {
+    background-color: rgb(0, 98, 204);
+    background-image: none;
+    color: rgb(232, 230, 227);
+}
+.quickContact .btn_link {
+    background-color: rgb(144, 106, 24);
+    background-image: none;
+    color: rgb(232, 230, 227);
+}
+.quickContact .btn_link {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #b4841e;
+        background-color: rgb(180, 132, 30);
+        background-image: none;
+    color: #fff;
+    display: block;
+    border-radius: 50%;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    margin-bottom: 10px;
+    text-decoration: none;
+
+}
